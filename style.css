@@ -1,1 +1,9 @@
+:root{
+  --kolor-glowny: orangered;
+  background-color: black;
+  color: white;
+}
 
+h1{
+  color: var(--kolor-glowny);
+}
